@@ -37,5 +37,5 @@ while (alive)
 }
 ```
 <div align="center">
-  <img src="https://github.com/FilimonovAlexey/FilimonovAlexey/blob/main/assets/github-snake.svg" width="100%" alt="github-snake">
+  <img src="https://github.com/FilimonovAlexey/FilimonovAlexey/blob/main/assets/github-snake.svg" width="400" alt="github-snake">
 </div>
