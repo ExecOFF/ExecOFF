@@ -37,5 +37,5 @@ while (alive)
 }
 ```
 <div align="center"> 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="60%" alt="github-snake"> 
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="80%" alt="github-snake"> 
 </div>
