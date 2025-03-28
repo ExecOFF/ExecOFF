@@ -35,3 +35,7 @@ while (alive)
     code();
     sleep(repeat);
 }
+```
+<div align="center"> 
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="github-snake"> 
+</div>
